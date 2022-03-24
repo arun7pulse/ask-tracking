@@ -22,7 +22,7 @@ tlist = []
 
 chromedriver = r".\chromedriver.exe"
 inputcsv = r'.\input.csv'
-inputcsvuniq = inputcsv + ".uniq.csv"
+inputcsvuniq = inputcsv + ".uniq.txt"
 outputcsv = r".\output.csv"
 outputjson = r".\output.json"
 
