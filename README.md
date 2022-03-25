@@ -8,14 +8,14 @@ final output will be written to the output.csv file and it can be used to vlooku
 
 
 ## Install required dependancy. 
-*pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Input the trackings
-Input all the tracking into input.csv to check the status. 
+Input all the tracking into *input.csv* to check the status. 
 
 ## How to run : 
-*python selenium_usps.py
+`python selenium_usps.py`
 
 ## Output
-All the status will be updated in the output.csv file. 
+All the status will be updated in the *output.csv* file. 
 
