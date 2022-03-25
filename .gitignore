@@ -1,7 +1,8 @@
 # My Custom Section
 *.json
+*.txt
 output.csv
-input.csv.uniq.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
